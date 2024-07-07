@@ -9,7 +9,7 @@ This project is a social media backend api implemented using the Django REST fra
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Installation](#installation)
-- - [Configuration](#configuration)
+- [Configuration](#configuration)
 - [Database Setup](#database-setup)
 - [Running the Project](#running-the-project)
 - [Troubleshooting](#troubleshooting)
