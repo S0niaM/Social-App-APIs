@@ -21,8 +21,7 @@ This project is a social media backend implemented using the Django REST framewo
   - Accept/Decline Friend Request
   - View Pending Friend Requests
 - User Profile Management
-- Feed Management
-- Post Creation and Deletion
+
 
 ## Usage
 Access the API at http://localhost:8000/api/
